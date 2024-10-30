@@ -13,7 +13,6 @@ body {
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
-    background-repeat:no reapeat;
 }
 p {
 	width:240px;
@@ -57,7 +56,7 @@ section {
 }
 section img{
 	background-repeat:no repeat;
-	img-hover:sorkin_desk260.jpg;
+	img-hover:../images/sorkin_desk260.jpg;
 }
 	
 section h1 {
