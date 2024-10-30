@@ -56,7 +56,8 @@ section {
 }
 section img{
 	background-repeat:no repeat;
-	img-a-hover:sorkin_desk260.jpg;
+	background-img:(sorkin_desk260.jpg);
+	
 }
 	
 section h1 {
@@ -115,5 +116,4 @@ footer p {
 	padding: 1em 0;
 }
 a.sorkin:hover, a.sorkin:focus{
-	background-img:url(sorkin_desk260.jpg)
 }
