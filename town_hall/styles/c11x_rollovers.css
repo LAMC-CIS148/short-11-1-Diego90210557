@@ -114,6 +114,6 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-.sorkin img:hover{
-	background:url(images/sorkin_desk260.jpg};
+a.sorkin:hover, a.sorkin:focus{
+	background-img:url(sorkin_desk260.jpg)
 }
