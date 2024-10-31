@@ -57,6 +57,8 @@ section {
 section img{
 	background-repeat:no repeat;
 	background-img:(sorkin_desk260.jpg);
+	a:hover;
+	a:focus;
 	
 }
 	
@@ -115,5 +117,4 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-a.sorkin:hover, a.sorkin:focus{
-}
+
