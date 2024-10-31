@@ -56,9 +56,7 @@ section {
 }
 section img{
 	background-repeat:no repeat;
-	background-img:(sorkin_desk260.jpg);
-	a:hover;
-	a:focus;
+	background-img-hover:(sorkin_desk260.jpg);
 	
 }
 	
