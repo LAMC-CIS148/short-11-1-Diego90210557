@@ -53,12 +53,6 @@ section {
 	width: 575px;
 	float: right;
 	padding: 0 20px 20px 20px;
-}
-section img{
-	background-repeat:no repeat;
-	background-img-hover:(sorkin_desk260.jpg);
-	
-}
 	
 section h1 {
 	color: #800000;
@@ -118,4 +112,7 @@ footer p {
 #image1:hover{
 	background-image:url(../images/sorkin_desk260.jpg);
 }
-	
+	#image1{
+		background-image:url(../images/sampson_dinosaur.jpg);
+		background-repeat:no repeat;
+	}
