@@ -114,5 +114,6 @@ footer p {
 }
 	#image1{
 		background-image:url(../images/sampson_dinosaur.jpg);
-		background-repeat:no repeat;
+	         width:240px;
+		height:240px;
 	}
