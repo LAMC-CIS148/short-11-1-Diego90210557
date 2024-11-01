@@ -115,11 +115,6 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
-#image1{
-	background-image:url(../images/sampson_dinsoaur.jpg);
-	width:240px;
-	height:240px;
-		}
 #image1:hover{
 	background-image:url(../images/sorkin_desk260.jpg);
 }
