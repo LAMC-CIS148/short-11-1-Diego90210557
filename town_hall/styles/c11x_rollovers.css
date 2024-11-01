@@ -120,7 +120,7 @@ footer p {
 	width:240px;
 	height:240px;
 		}
-#image1{
-	image-hover:url(../images/sorkin_desk260.jpg);
+#image1:hover{
+	background-image:url(../images/sorkin_desk260.jpg);
 }
 	
