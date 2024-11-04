@@ -112,8 +112,4 @@ footer p {
 #image1:hover{
 	background-image:url(../images/sorkin_desk260.jpg);
 }
-	#image1{
-		background-image:url(../images/sampson_dinosaur.jpg);
-	         width:240px;
-		height:240px;
-	}
+	
