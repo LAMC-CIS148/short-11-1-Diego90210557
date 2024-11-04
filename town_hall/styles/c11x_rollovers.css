@@ -63,7 +63,6 @@ section h1 {
 section p {
 	padding-bottom: .5em;
 }
-	section img{
 		
 
 /* the styles for the article */
@@ -115,3 +114,8 @@ footer p {
 	background-image:url(../images/sorkin_desk260.jpg);
 }
 	
+#image1:{
+	background-image:url(../images/sampson_dinosaur.jpg);
+	width:240px;
+	height:240px;
+}
